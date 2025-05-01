@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/code03112003/meditrack.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/code03112003/meditrack_frontend.git
